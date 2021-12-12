@@ -2,7 +2,7 @@ Hello! 👋
 
 I'm Julia Janicka, an archaeologist turned Junior Full Stack Developer based in Barcelona 👩‍💻
 </br>
-After ten years working in academia I have decided to challenge myself and dive into the Tech world. Three months later and I am a graduate of Ironhack’s Full Stack Bootcamp. I see myself as a passionate developer who loves coding and is always open to learning new languages 🖥️
+After ten years working in academia I have decided to challenge myself and dive into the Tech world. Three months later I graduated from Ironhack’s Web Dev Full Stack Bootcamp. I am passionate about coding and always open to learning 🖥️
 
 🔭 I’m currently working on expanding my React and Tailwind abilities 
 </br>
@@ -23,8 +23,6 @@ After ten years working in academia I have decided to challenge myself and dive 
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
-
-
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=juliajulia89&show_icons=true&theme=vue&icon_color=f4cd7c&hide_border=true" />
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliajulia89&layout=compact&theme=vue&hide_border=true" />
 
