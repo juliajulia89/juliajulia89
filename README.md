@@ -1,16 +1,15 @@
-### Hi there 👋
+Hello! 👋
 
-<!--
-**juliajulia89/juliajulia89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Julia Janicka, an archaeologist turned Junior Full Stack Developer 👩‍💻
 
-Here are some ideas to get you started:
+About me
+After ten years working in academia I have decided to challenge myself and dive into the Tech world. Three months later and I am a graduate of Ironhack’s Full Stack Bootcamp in Barclelona. I see myself as a passionate developer who loves coding and is always open to learning new languages 🖥️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on expanding my React abilities 
+</br>
+🗣 English, Polish, Spanish </br>
+📫 How to reach me: julkajanicka@gmail.com </br>
+💥 On my free time you will find me playing beach volley 
+
+
+          
