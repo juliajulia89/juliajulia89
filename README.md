@@ -1,8 +1,7 @@
 Hello! 👋
 
 I'm Julia Janicka, an archaeologist turned Junior Full Stack Developer based in Barcelona 👩‍💻
-
-About me
+</br>
 After ten years working in academia I have decided to challenge myself and dive into the Tech world. Three months later and I am a graduate of Ironhack’s Full Stack Bootcamp. I see myself as a passionate developer who loves coding and is always open to learning new languages 🖥️
 
 🔭 I’m currently working on expanding my React abilities 
