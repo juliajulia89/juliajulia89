@@ -12,5 +12,5 @@ After ten years working in academia I have decided to challenge myself and dive 
 💥 On my free time you will find me playing beach volley 
 
 
-<img height="180em" width="180em"src="https://github-readme-stats.vercel.app/api?username=juliajulia89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliajulia89&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
