@@ -13,3 +13,4 @@ After ten years working in academia I have decided to challenge myself and dive 
 
 
           
+<img height="180em" src="https://github-readme-stats.vercel.app/apijuliajulia89=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
