@@ -24,6 +24,7 @@ After ten years working in academia I have decided to challenge myself and dive 
 ![](https://img.shields.io/badge/Backend-ExpressJS-informational?style=flat&logo=expressjs&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/API-Postman-informational?style=flat&logo=postman&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Backend-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a)
 
 ## GitHub Stats
   <img height="170px" src="https://github-readme-stats.vercel.app/api?username=juliajulia89&show_icons=true&theme=vue&icon_color=f4cd7c&hide_border=true" />
